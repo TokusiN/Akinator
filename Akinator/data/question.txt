@@ -1,0 +1,7 @@
+6
+Is it circle shape?
+Is it red?
+Is it large?
+Is it small?
+Is it long?
+Is there a big seed in it?
